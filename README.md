@@ -1,2 +1,2 @@
-# Data-Analytics-Project
-This repository contains projects I've completed for DataCamp Data Science courses using programs such as Python, R, SQL, Excel, etc...
+# INVESTIGATING NETFLIX MOVIES AND GUEST STARS IN THE OFFICE
+In this project, we examine Netflix data to find out if average movie duration has been declining over the years through exploratory analysis.
